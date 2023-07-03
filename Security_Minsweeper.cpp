@@ -58,8 +58,7 @@ void makeMove (int *x, int *y, int moves[][2], int currentMoveIndex)
     // If you want to make your own move
     // then uncomment this section and comment
     // the above section
- 
-    */
+     */
     return;
 }
  
